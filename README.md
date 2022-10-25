@@ -1,4 +1,4 @@
-# Pimcore New Project Install Guide Ubuntu
+# Pimcore Old Project Install Guide Ubuntu
 
 ## Getting started follow these steps
 # Choose which version
